@@ -22,3 +22,5 @@ python3 manage.py migrate
 
 ## 6) Run the server
 python3 manage.py runserver
+
+Made as a Group Project for Python Programming (SEM 1)
